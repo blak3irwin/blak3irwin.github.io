@@ -28,4 +28,5 @@ counter = 7
 counter = 8
 counter = 9
 counter = 10
-YAY! I counted to 10```
+YAY! I counted to 10
+```
