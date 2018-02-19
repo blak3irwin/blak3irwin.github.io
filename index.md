@@ -1,4 +1,4 @@
-# :fire: Welcome to blak3irwin.github.io:fire:
+# :fire: Welcome to blak3irwin.github.io :fire:
 
 Check me out on GitHub: https://github.com/blak3irwin
 
@@ -15,7 +15,8 @@ def do_something(input):
     counter+=1    
   print 'YAY! I counted to',input
 ```
-Output:
+Cool Code Output:
+
 ```>>> do_something(10)
 counting to 10
 counter = 1
