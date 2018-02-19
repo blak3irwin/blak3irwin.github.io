@@ -1,4 +1,4 @@
-
+markdown: kramdown
 plugins:
   - jemoji
   - jekyll-sitemap
@@ -11,4 +11,5 @@ plugins:
   - jekyll-readme-index
   - jekyll-default-layout
   - jekyll-titles-from-headings
-  -jekyll-avatar
+  - jekyll-avatar
+  - jekyll-feed
