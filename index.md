@@ -1,11 +1,9 @@
 # blak3irwin.github.io
 :fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:
 
-Check me out on GitHub: https://github.com/blak3irwin
+{% avatar blak3irwin %} Check me out on GitHub: https://github.com/blak3irwin
 
-{% avatar blak3irwin %}
-
-Cool Code:
+I write cool code like this:
 ```python
 #!/usr/bin/python
 def do_something(input):
