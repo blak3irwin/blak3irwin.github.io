@@ -13,3 +13,5 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-avatar
   - jekyll-feed
+
+theme: jekyll-theme-minimal
