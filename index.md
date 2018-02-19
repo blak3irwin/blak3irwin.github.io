@@ -1,4 +1,5 @@
-# :fire:blak3irwin.github.io:fire:
+# blak3irwin.github.io
+:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:
 
 Check me out on GitHub: https://github.com/blak3irwin
 
