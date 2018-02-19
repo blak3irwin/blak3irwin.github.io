@@ -3,7 +3,7 @@
 
 Check me out on GitHub: https://github.com/blak3irwin
 
-![It's Chuck!](/images/chucknorris.jpeg)
+{% avatar blak3irwin %}
 
 Cool Code:
 ```python
