@@ -1,6 +1,8 @@
-# blak3irwin.github.io
+# BLAK3IRWIN
 
-{% avatar blak3irwin %} Find me on GitHub: https://github.com/blak3irwin
+{% avatar blak3irwin %} 
+
+[GitHub](https://github.com/blak3irwin)
 
 
 
