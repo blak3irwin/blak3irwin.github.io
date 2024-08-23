@@ -13,5 +13,6 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-avatar
   - jekyll-feed
+  - jekyll-remote-theme
 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/hacker@v0.2.0
